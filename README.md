@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=560&lines=Computer+Engineering+Student;Full-Stack+Web+Developer;Computer+Vision+%26+Embedded+Systems;Mobile+App+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=560&lines=Computer+Engineer;Full-Stack+Web+Developer;Computer+Vision+%26+Embedded+Systems;Mobile+App+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,20 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=rjtng&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile views" />
   <a href="https://github.com/rjtng?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frjtng&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&color=2F81F7&label=Public%20Repos" alt="Public repositories" /></a>
 </p>
-
----
-
-## About Me
-
-Computer Engineering student at **Universidad de Zamboanga**, based in Zamboanga City, Philippines. I build systems that ship to real users, from a reverse vending machine running computer vision on a Raspberry Pi to attendance software used daily by a government regional office.
-
-- Web Developer Intern at the **Department of Information and Communications Technology (DICT) Regional Office IX**
-- President of the **Institute of Computer Engineers of the Philippines - Student Edition**, UZ Chapter (2025-2026)
-- Resource speaker for the DICT OJT 2.0 webinar, presenting Google Workspace and Gemini AI workflows to 100+ attendees
-- Currently deepening my work in computer vision, embedded systems, and full-stack development
-- Reach me at **alrajitheng@gmail.com**
-
----
 
 ## Tech Stack
 
@@ -111,37 +97,6 @@ Computer Engineering student at **Universidad de Zamboanga**, based in Zamboanga
   <img src="https://img.shields.io/badge/Wireless%20AP%20Configuration-37474F?style=for-the-badge&logoColor=white" alt="Wireless AP Configuration" />
   <img src="https://img.shields.io/badge/LAN%20Troubleshooting-37474F?style=for-the-badge&logoColor=white" alt="LAN Troubleshooting" />
 </p>
-
----
-
-## Certifications
-
-<details>
-<summary><b>Professional certificates and specializations</b> (click to expand)</summary>
-
-<br>
-
-**IBM Professional Certificates** (2024)
-Full Stack Software Developer, DevOps and Software Engineering, iOS and Android Mobile App Developer, AI Developer, Cybersecurity Analyst
-
-**Google Professional Certificates**
-UX Design, IT Support, IT Automation with Python, Advanced Data Analytics (2024), AI Specialization (2025)
-
-**Specializations**
-Hands-on Internet of Things, University of Illinois (2025)
-Akamai Network Engineering (2024)
-
-**National and Professional Credentials**
-National Certificate II in Computer Systems Servicing, TESDA (2025)
-Safety Officer II, Occupational Safety and Health Center (2025)
-
-</details>
-
-<p align="center">
-  <a href="https://credly.com/users/rjt"><img src="https://img.shields.io/badge/Verify%20all%20badges%20on%20Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
-</p>
-
----
 
 ## GitHub Stats
 
