@@ -130,8 +130,3 @@
 </p>
 
 ---
-
-<p align="center">
-  Open to internships, junior developer roles, and collaboration on computer vision or civic-tech projects.<br>
-  <a href="mailto:alrajitheng@gmail.com">alrajitheng@gmail.com</a> | <a href="https://linkedin.com/in/rjtg">LinkedIn</a> | <a href="https://credly.com/users/rjt">Credly</a>
-</p>
